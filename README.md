@@ -1,6 +1,8 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kucdhobm2ttoqbo5ufbsp55cbu)
 
-##Favorite Tech
+###
+<h3 align="center">Favorite Tech</h3>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
