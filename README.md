@@ -23,9 +23,9 @@
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kucdhobm2ttoqbo5ufbsp55cbu)
-](https://github.com/VouganHyago)
+###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kucdhobm2ttoqbo5ufbsp55cbu)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VouganHyago/VouganHyago/output/github-snake-dark.svg" />
