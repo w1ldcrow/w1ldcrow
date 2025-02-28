@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kucdhobm2ttoqbo5ufbsp55cbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ab31b4)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">Favorite Tech</h3>
 
 <div align="left">
@@ -23,7 +25,6 @@
 </div>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kucdhobm2ttoqbo5ufbsp55cbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ab31b4)](https://github.com/kittinan/spotify-github-profile)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VouganHyago/VouganHyago/output/github-snake-dark.svg" />
