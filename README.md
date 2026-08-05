@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kucdhobm2ttoqbo5ufbsp55cbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ab31b4)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kucdhobm2ttoqbo5ufbsp55cbu\&cover_image=true\&theme=spotify-embed\&show_offline=true\&background_color=121212\&interchange=false\&bar_color=ab31b4)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Favorite Tech</h3>
 
@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
 </div>
 
 ###
